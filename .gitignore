@@ -1,0 +1,9 @@
+# envs & secrets
+.venv/
+.env
+api.env
+
+# notebooks & python cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc

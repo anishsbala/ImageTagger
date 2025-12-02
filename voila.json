@@ -1,0 +1,13 @@
+{
+  "VoilaConfiguration": {
+    "tornado_settings": {
+      "websocket_max_message_size": 536870912,
+      "max_buffer_size": 209715200,
+      "websocket_ping_interval": 30000,
+      "websocket_ping_timeout": 30000
+    }
+  },
+  "ServerApp": {
+    "websocket_max_message_size": 209715200
+  }
+}
